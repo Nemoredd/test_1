@@ -1,0 +1,15 @@
+d:\GB\Gb CW\bin\Debug\net6.0\Gb CW.exe
+D:\GB\Gb CW\bin\Debug\net6.0\Gb CW.deps.json
+D:\GB\Gb CW\bin\Debug\net6.0\Gb CW.runtimeconfig.json
+d:\GB\Gb CW\bin\Debug\net6.0\Gb CW.dll
+d:\GB\Gb CW\bin\Debug\net6.0\Gb CW.pdb
+d:\GB\Gb CW\obj\Debug\net6.0\Gb CW.csproj.AssemblyReference.cache
+d:\GB\Gb CW\obj\Debug\net6.0\Gb CW.GeneratedMSBuildEditorConfig.editorconfig
+d:\GB\Gb CW\obj\Debug\net6.0\Gb CW.AssemblyInfoInputs.cache
+d:\GB\Gb CW\obj\Debug\net6.0\Gb CW.AssemblyInfo.cs
+d:\GB\Gb CW\obj\Debug\net6.0\Gb CW.csproj.CoreCompileInputs.cache
+d:\GB\Gb CW\obj\Debug\net6.0\Gb CW.dll
+d:\GB\Gb CW\obj\Debug\net6.0\refint\Gb CW.dll
+d:\GB\Gb CW\obj\Debug\net6.0\Gb CW.pdb
+D:\GB\Gb CW\obj\Debug\net6.0\Gb CW.genruntimeconfig.cache
+D:\GB\Gb CW\obj\Debug\net6.0\ref\Gb CW.dll
